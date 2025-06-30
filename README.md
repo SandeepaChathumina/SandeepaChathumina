@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on university web projects using **Java, JSP/Servlets, and MySQL**.  
 - 🌱 I’m improving my skills in **Full Stack Development** and learning **Spring Boot & React**.  
 - 💬 Ask me about **Java, C++, PHP, MySQL, Web Development**  
-- 📫 Reach me via **sandeepa@email.com** *(Replace with your actual email)*  
+- 📫 Reach me via **sandeepachathuminaofficial@gmail.com** 
 - ⚡ Fun fact: call me as Sandy!
 
 ---
