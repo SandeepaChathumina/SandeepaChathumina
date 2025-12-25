@@ -1,90 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Hi,%20I'm%20Sandeepa%20👋&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Sandeepa%20Chathumina&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Developer%20In%20The%20Making&descSize=25&descAlignY=65" width="100%" />
 
   <p align="center">
-    <strong>Software Engineering Undergraduate @ SLIIT | Full Stack Enthusiast</strong>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SandeepaSLIIT&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SandeepaSLIIT?style=social" />
+    <a href="https://www.linkedin.com/in/sandeepa-karunanayake"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <a href="mailto:sandeepachathuminaofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=SandeepaSLIIT&label=Profile%20Views&color=0e75b6&style=flat-square" />
   </p>
 </div>
 
 ---
 
-### ⚡ Quick Glimpse
-- 🎓 **Education:** 2nd Year Software Engineering Student at **SLIIT**.
-- 🔭 **Current Focus:** Building robust web applications with **Java EE (JSP/Servlets)**.
-- 🌱 **Learning Path:** Mastering **Spring Boot** microservices and **React** for modern UIs.
-- 💬 **Ask me about:** Java, C++, PHP, and how to build clean databases.
-- 📧 **Reach out:** [sandeepachathuminaofficial@gmail.com](mailto:sandeepachathuminaofficial@gmail.com)
+### ⚡ About Me
+I am a **Software Engineering Undergraduate** at SLIIT with a deep interest in building scalable web applications. Currently, I am bridging the gap between traditional Java EE and modern microservices.
+
+- 🔭 **Working on:** University Management System (JSP/Servlets/MySQL)
+- 🌱 **Learning:** `Spring Boot`, `Microservices`, and `React.js`
+- 🎯 **2024 Goals:** Contribute to Open Source & Master System Design
+- 💬 **Ask me about:** Java OOP, C++ Data Structures, or Web Security
 
 ---
 
-### 🛠️ Tech Toolbox
-
-<details open>
-<summary><b>Languages & Core</b></summary>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>Web & Backend Development</b></summary>
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>Design & Tools</b></summary>
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-</details>
+### 🛠️ Technical Arsenal
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) |
+| **Backend** | ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Servlets](https://img.shields.io/badge/-Servlets-4E8CBE?logo=java) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **DevOps/Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) |
 
 ---
 
-### 📊 Performance Metrics
+### 📈 Activity & Progress
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SandeepaSLIIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepaSLIIT&theme=tokyonight&hide_border=true" />
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=SandeepaSLIIT&show_icons=true&theme=dracula&hide_border=true" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepaSLIIT&layout=compact&theme=dracula&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepaSLIIT&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+#### 🐍 My Contribution Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandeepaSLIIT/SandeepaSLIIT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandeepaSLIIT/SandeepaSLIIT/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SandeepaSLIIT/SandeepaSLIIT/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandeepa-karunanayake">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SandeepaSLIIT">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:sandeepachathuminaofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🏗️ Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <h4>University Web App</h4>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandeepaSLIIT&repo=YOUR_REPO_NAME&theme=dracula" />
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h4>Java Backend Project</h4>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandeepaSLIIT&repo=YOUR_OTHER_REPO&theme=dracula" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Sandy</i>
-</p>
+---
+
+### ⏰ Daily Coding Routine
+```javascript
+while (alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+    if (frustrated) {
+        drink_tea(); // ☕ Sri Lankan standard
+    }
+}
