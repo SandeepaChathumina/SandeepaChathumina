@@ -45,26 +45,24 @@ sandy:
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:9ece6a&height=4&section=header" width="100%" height="4">
+</p>
+
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,ts,html,css&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,ts,html,css,react,tailwind,figma,vite,spring,nodejs,express,mysql,mongodb,vscode,idea,git,github,postman&theme=dark&perline=11" />
 </p>
 
-<p align="center"><b>Frontend</b></p>
+<p align="center"><i>⚡ Languages → Frontend → Backend → Tools, all in one spin ⚡</i></p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,figma,vite&theme=dark&perline=8" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Vibing+With&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=dark&line1=java,java,auto;spring,springboot,auto;react,react,auto;&line2=nodejs,nodedotjs,auto;mysql,mysql,auto;mongodb,mongodb,auto;&width=600" alt="tech stack cards"/>
 </p>
 
-<p align="center"><b>Backend &amp; Database</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb&theme=dark&perline=8" />
-</p>
-
-<p align="center"><b>Tools &amp; IDEs</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman&theme=dark&perline=8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:9ece6a&height=4&section=header" width="100%" height="4">
 </p>
 
 ---
@@ -116,7 +114,11 @@ sandy:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SandeepaChathumina&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=SandeepaChathumina&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:9ece6a&height=4&section=header" width="100%" height="4">
 </p>
 
 ---
