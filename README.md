@@ -1,120 +1,167 @@
 <!-- =============================== -->
-<!-- TOP BANNER — Dynamic Gradient -->
+<!-- TOP BANNER -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kirulu%20Chamika&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Sandeepa%20Karunanayake&fontSize=42&fontAlign=50&fontAlignY=35&fontColor=c0caf5&animation=twinkling&desc=Software%20Engineering%20Undergraduate%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=58&descColor=9ece6a" alt="banner" width="100%"/>
 </p>
 
-
-  <!-- Typing line -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1100&center=true&vCenter=true&width=920&duration=2800&lines=Building+polished+web+apps+end-to-end;React+%2B+Spring+Boot+%2B+Next.js+%2B+Node.js;MySQL+%2F+MongoDB+%E2%80%A2+Clean+Architecture+%E2%80%A2+UI%2FUX" alt="typing">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=9ECE6A&center=true&vCenter=true&width=820&lines=Building+full-stack+web+apps+end-to-end;Java+%2B+Spring+Boot+%2B+React+%2B+Node.js;MySQL+%E2%80%A2+Clean+Code+%E2%80%A2+Problem+Solving;Call+me+Sandy+%F0%9F%91%8B" alt="typing-svg" />
 </p>
-
-
 
 <!-- =============================== -->
 <!-- QUICK META -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiruluchamika&label=Profile%20Views&color=1e78c1&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/github/followers/kiruluchamika?label=Followers&style=for-the-badge" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/kiruluchamika?label=Stars&style=for-the-badge" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=SandeepaChathumina&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/followers/SandeepaChathumina?label=Followers&style=for-the-badge&color=9ece6a" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/SandeepaChathumina?label=Stars&style=for-the-badge&color=bb9af7" alt="stars"/>
 </p>
 
-<!-- Fun animated gif link -->
-<a href="#">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
-</a>
+---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-I'm **Kirulu Chamika**, an undergraduate **Software Engineering Student** with a passion for full-stack development, UI design, and problem solving.
+I am a **Software Engineering undergraduate at SLIIT** with a strong interest in **Full Stack Web Development**. I enjoy building real-world web applications, sharpening my problem-solving skills, and picking up modern technologies step by step.
 
-- 🔭 Exploring **Full-Stack Development** using modern tools & frameworks  
-- ⚙️ Currently working with **React, Node.js, Spring Boot, and Next.js**  
-- 🌐 Skilled in **Web + Mobile UI/UX Design**  
-- 💡 Learning & building with **Java Servlets, MySQL Workbench, and MongoDB**  
-- 💻 Languages: **PHP, HTML, CSS, JavaScript, C, C++, Java**  
-- 👨‍💻 Practicing **problem solving, DSA**, and contributing to **Open Source**  
-- 🧠 Always curious — always coding  
+```yaml
+sandy:
+  role: "Software Engineering Undergraduate @ SLIIT"
+  focus: "Full Stack Web Development"
+  currently_learning: ["Spring Boot", "React", "Node.js"]
+  interests: ["Java", "Databases", "Backend Development"]
+  ask_me_about: ["Java", "C++", "PHP", "MySQL", "JSP/Servlets", "Web Dev"]
+  contact: "sandeepachathuminaofficial@gmail.com"
+  fun_fact: "You can call me Sandy ⚡"
+```
 
-<!-- Fun animated gif link -->
-<a href="#">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
-</a>
+- 🎓 Software Engineering Undergraduate at **SLIIT**
+- 🔭 Currently working on university and personal web development projects
+- 🌱 Learning **Spring Boot, React, Node.js**, and Full Stack Development
+- 💻 Interested in **Java, Web Development, Databases**, and Backend Development
+- 💬 Ask me about **Java, C++, PHP, MySQL, JSP/Servlets**, and Web Development
+- 📫 Reach me at **sandeepachathuminaofficial@gmail.com**
+- ⚡ Fun fact: You can call me **Sandy**
 
-## 🧰 Tech Stack
+---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,ts,html,css&perline=16" />
-    <br/>
-    <!-- Frontend / UI -->
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vite&perline=16" />
-    <br/>
-    <!-- Backend / DevOps -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postman,git,github,androidstudio&perline=16" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:24c6dc,100:9ece6a&height=3" width="100%" height="3">
 </p>
 
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4a1d3ba-750e-4ce1-ae42-a6a5096b08e5" width="400" height="400" alt="about me gif">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,ts,html,css,react,tailwind,figma,vite,spring,nodejs,express,mysql,mongodb,vscode,idea,git,github,postman&theme=dark&perline=11" />
 </p>
 
-<!-- Fun animated gif link -->
-<a href="#">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
-</a>
+<p align="center"><i>⚡ Languages → Frontend → Backend → Tools ⚡</i></p>
 
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Vibing+With&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=dark&line1=java,java,auto;spring,springboot,auto;react,react,auto;&line2=nodejs,nodedotjs,auto;mysql,mysql,auto;mongodb,mongodb,auto;&width=600" alt="tech stack cards"/>
+</p>
 
-## 📊 GitHub Insights
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:24c6dc,100:9ece6a&height=3" width="100%" height="3">
+</p>
 
-<table align="center">
+---
+
+## 📌 Featured Projects
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <!-- Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=kiruluchamika&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
-      <br/><br/>
-      <!-- Streak -->
-      <img src="https://streak-stats.demolab.com?user=kiruluchamika&theme=tokyonight&hide_border=true" alt="streak"/>
+    <td width="50%" valign="top">
+      <h3>🤖 PaperMate AI</h3>
+      An AI-powered web app that helps students generate exam-style answers from past paper questions.
     </td>
-    <td width="50%" align="center">
-      <!-- Top Langs -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruluchamika&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs"/>
-      <br/><br/>
-      <!-- Activity Graph -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiruluchamika&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+    <td width="50%" valign="top">
+      <h3>🌾 AgriHub LK</h3>
+      A MERN-based agriculture platform connecting farmers, buyers, and service providers through a digital marketplace.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Smart Health Care System</h3>
+      A microservice-based healthcare platform managing appointments, payments, telemedicine, and patient services.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚌 BusZone+</h3>
+      A bus rental management system handling bookings, schedules, customer details, and rental operations.
     </td>
   </tr>
 </table>
 
-<!-- Fun animated gif link -->
-<a href="#">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
-</a>
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SandeepaChathumina&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepaChathumina&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=SandeepaChathumina&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepaChathumina&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SandeepaChathumina/SandeepaChathumina/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
+
+> ⚙️ One-time setup needed — see the **Snake Game Setup** section below to activate this.
+
+---
+
+## 📈 Activity Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SandeepaChathumina&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&show=reviews,prs_merged,prs_merged_percentage" />
+</p>
+
+<p align="center"><i>A closer look at commits, pull requests, and review activity</i></p>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiruluchamika&theme=dracula&no-frame=true&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=SandeepaChathumina&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<!-- Fun animated gif link -->
-<a href="#">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:9ece6a&height=4&section=header" width="100%" height="4">
+</p>
 
-## 📫 Let’s Connect
+---
 
-- 🌐 Facebook: [Kirulu Chamika](https://www.facebook.com/kirulu.chamika?mibextid=ZbWKwL)  
-- 📧 Email: [kiruluchamika2002@gmail.com](mailto:kiruluchamika2002@gmail.com)
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeepa-karunanayake-39168127a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sandeepachathuminaofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SandeepaChathumina" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <!-- =============================== -->
-<!-- FOOTER STRIP — Dynamic Gradient -->
+<!-- FOOTER STRIP -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling" alt="footer wave" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" alt="footer wave" width="100%"/>
 </p>
+
+<h3 align="center">✨ Always learning, building, and improving ✨</h3>
