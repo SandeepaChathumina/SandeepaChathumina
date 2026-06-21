@@ -46,7 +46,7 @@ sandy:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:9ece6a&height=4&section=header" width="100%" height="4">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:24c6dc,100:9ece6a&height=3" width="100%" height="3">
 </p>
 
 ## 🛠️ Tech Stack
@@ -55,14 +55,14 @@ sandy:
   <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,ts,html,css,react,tailwind,figma,vite,spring,nodejs,express,mysql,mongodb,vscode,idea,git,github,postman&theme=dark&perline=11" />
 </p>
 
-<p align="center"><i>⚡ Languages → Frontend → Backend → Tools, all in one spin ⚡</i></p>
+<p align="center"><i>⚡ Languages → Frontend → Backend → Tools ⚡</i></p>
 
 <p align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Vibing+With&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=dark&line1=java,java,auto;spring,springboot,auto;react,react,auto;&line2=nodejs,nodedotjs,auto;mysql,mysql,auto;mongodb,mongodb,auto;&width=600" alt="tech stack cards"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:9ece6a&height=4&section=header" width="100%" height="4">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:24c6dc,100:9ece6a&height=3" width="100%" height="3">
 </p>
 
 ---
@@ -108,6 +108,26 @@ sandy:
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SandeepaChathumina&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SandeepaChathumina/SandeepaChathumina/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
+
+> ⚙️ One-time setup needed — see the **Snake Game Setup** section below to activate this.
+
+---
+
+## 📈 Activity Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SandeepaChathumina&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,contribs&show=reviews,prs_merged,prs_merged_percentage" />
+</p>
+
+<p align="center"><i>A closer look at commits, pull requests, and review activity</i></p>
 
 ---
 
